@@ -8,7 +8,9 @@ This repository presents a sophisticated hand gesture recognition system employi
 **Dataset**
 The dataset consists of near-infrared images captured by the Leap Motion sensor. It encompasses 10 unique hand gestures meticulously performed by 10 different subjects, ensuring diversity in gesture styles and orientations. Each gesture is meticulously organized into folders corresponding to the subjects (00 to 09) and specific gestures (e.g., "01_palm," "02_l," "10_down"), offering a comprehensive and structured dataset for model training and evaluation.
 
-**Dataset Source:** https://www.kaggle.com/datasets/gti-upm/leapgestrecog
+**Dataset Source:** https://link.springer.com/chapter/10.1007/978-3-319-48680-2_5
+
+**Dataset Link**: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 **Project Tasks**
 
@@ -38,7 +40,7 @@ The dataset consists of near-infrared images captured by the Leap Motion sensor.
 - **OpenCV:** Image handling library for preprocessing and visualization.
 - **Matplotlib and Seaborn:** Libraries for data visualization.
 
-**Author**
+**#Author**
 # Viraj N. Bhutada
 
-This project showcases the power of deep learning in real-time gesture recognition and sets the stage for seamless human-computer interaction in various applications. The high accuracy achieved signifies the model's reliability and precision in understanding intricate hand movements. Feel free to explore the code and dive deeper into the world of gesture-based interfaces.
+This project showcases the successful fusion of advanced technologies and meticulous dataset organization, ensuring a robust foundation for gesture-based human-computer interaction systems. For a detailed exploration of the dataset and its creation, refer to the provided research paper citation. Explore the code and delve into the future of seamless gesture recognition interfaces.
